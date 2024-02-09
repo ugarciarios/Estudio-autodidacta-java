@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b9bb0d7-ab7f-4ebe-bcdc-4d32cf7f71e1" name="Changes" comment="">
+    <list default="true" id="3b9bb0d7-ab7f-4ebe-bcdc-4d32cf7f71e1" name="Changes" comment="se crea el archivo principal">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/b1/listaDeCompras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/b2/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/b2/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ugarciarios&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a6be36ae-764d-4da5-b625-f55ab5d858ac" />
+        <option name="url" value="https://github.com/ugarciarios/Estudio-autodidacta-java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -33,9 +49,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Principal.executor": "Run",
     "Application.calculadora.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/udeje/IdeaProjects/proyectosAutodidacta/src/test/java",
@@ -64,6 +82,53 @@
       <option name="presentableId" value="Default" />
       <updated>1706921908542</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se crea el segundo archivo">
+      <option name="closed" value="true" />
+      <created>1707186044631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707186044631</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Se crea el segundo archivo">
+      <option name="closed" value="true" />
+      <created>1707186062633</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707186062633</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Se crea el segundo archivo">
+      <option name="closed" value="true" />
+      <created>1707186130633</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707186130633</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Se crean los siguientes dos archivos">
+      <option name="closed" value="true" />
+      <created>1707354960459</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707354960459</updated>
+    </task>
+    <task id="LOCAL-00005" summary="se crea el archivo principal">
+      <option name="closed" value="true" />
+      <created>1707355113591</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707355113592</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se crea el segundo archivo" />
+    <MESSAGE value="Se crean los siguientes dos archivos" />
+    <MESSAGE value="se crea el archivo principal" />
+    <option name="LAST_COMMIT_MESSAGE" value="se crea el archivo principal" />
   </component>
 </project>
